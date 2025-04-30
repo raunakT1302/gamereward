@@ -82,8 +82,8 @@ MIT License. Free to use, fork, or modify — just give credit if you're feeling
 This isn’t just a smart contract — it’s the **start of a Web3-powered game economy**.  
 Plug it in, level up your game, and let the rewards roll!
 
-External Links 
-1.Contract ID - 0x5bdF350D9eFbfA67Cd5801c244b2C21c6017196B
+ 
+Contract ID - 0x5bdF350D9eFbfA67Cd5801c244b2C21c6017196B
 ![image](https://github.com/user-attachments/assets/1972e516-d3ee-4e8d-9a76-5e27c701fe61)
 
 
