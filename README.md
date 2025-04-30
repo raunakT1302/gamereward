@@ -43,3 +43,5 @@ Allows a player to redeem (consume) a specific quantity of a reward.
 
 1. Go to [Remix IDE](https://remix.ethereum.org)
 2. Contract ID - 0x5bdF350D9eFbfA67Cd5801c244b2C21c6017196B
+3. ![image](https://github.com/user-attachments/assets/d5913ed1-a780-4f58-8944-9f487a2df073)
+
