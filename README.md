@@ -42,4 +42,4 @@ Allows a player to redeem (consume) a specific quantity of a reward.
 ## 🧪 Try It Out on Remix
 
 1. Go to [Remix IDE](https://remix.ethereum.org)
-2. Create a new file:
+2. Contract ID - 0x5bdF350D9eFbfA67Cd5801c244b2C21c6017196B
